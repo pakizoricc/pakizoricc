@@ -3,6 +3,7 @@
 ###
 
 <p align="left">Passionate in Software/Web Development 💻💡</p>
+<p align="left">E-mail: pavlezoric2000@gmail.com</p>
 
 ###
 
